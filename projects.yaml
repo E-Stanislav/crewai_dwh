@@ -1,0 +1,10 @@
+# Список проектов для анализа
+# Добавьте свои проекты в формате:
+#   - name: имя_проекта (отображается в интерфейсе)
+#     path: /полный/путь/к/проекту
+
+projects:
+  - name: airflow_dbt
+    path: /Users/stanislave/Documents/Projects/airflow_dbt
+  - name: airflow_check
+    path: /Users/stanislave/Documents/Projects/airflow_check
